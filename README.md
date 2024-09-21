@@ -13,3 +13,8 @@ This project explores bike sharing data from different cities to provide insight
 - Pandas
 - Jupyter Notebooks
 
+
+## How to Use
+1. Clone this repository.
+2. Ensure you have Python and the required libraries installed.
+3. Run `bikeshare.py` to begin the analysis.
